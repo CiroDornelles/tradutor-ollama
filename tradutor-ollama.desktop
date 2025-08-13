@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Tradutor Ollama
+Comment=Tradutor de texto usando Ollama com glossário
+Exec=bash -c "cd /home/ciro/Documentos/projetos/tradutor && uv run main.py \"%s\""
+Terminal=true
+Categories=Utility;
